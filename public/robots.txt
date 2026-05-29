@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /admin
+Disallow: /api
+
+Sitemap: https://mumbai-salon-luxury.preview.emergentagent.com/sitemap.xml
